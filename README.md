@@ -1,4 +1,4 @@
-### Hi there, I'm Mohit Kumar - Associate QA Manager 👋
+### Hi there, I'm Mohit Kumar - QA Architect 👋
 
 ```About Me```<br>
 As an experienced automation tester, I am passionate about enhancing software quality through automation. With over 12 years of industry experience, I have honed my expertise in diverse automation testing frameworks and tools, such as BDD, TDD, Webdriver-Java-TestNG-JUnit, Cypress-JavaScript-Cucumber, TestProject, and Hybrid Automation frameworks.
