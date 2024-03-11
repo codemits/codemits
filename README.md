@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohit Kumar - Test Architect 👋
 
 ```About Me```<br>
-As an experienced automation tester, I am passionate about enhancing software quality through automation. With over 12 years of industry experience, I have honed my expertise in diverse automation testing frameworks and tools, such as BDD, TDD, Webdriver-Java-TestNG-JUnit, Cypress-JavaScript-Cucumber, TestProject, and Hybrid Automation frameworks.
+As an experienced automation tester, I am passionate about enhancing software quality through automation. With over 12 years of industry experience, I have honed my expertise in diverse automation testing frameworks and tools, such as BDD, TDD, Webdriver-Java-TestNG-JUnit, Cypress-JavaScript-Cucumber(Cypress-ambassador), TestProject, and Hybrid Automation frameworks.
 
 ```- 🌱 I’m currently learning```
 - Currently, I am learning Cypress and JavaScript, with a particular emphasis on visual testing using Percy. I believe that mastering these skills will enable me to enhance my expertise in automation testing, making me a more valuable asset to my team and organization. I am excited to continue developing my skills in these areas and look forward to applying them to real-world projects.<br>
